@@ -1,6 +1,5 @@
-```
-yaml
-name: Deploy training-v1
+```yaml
+name: Deploy Docs Site
  
 on:
   push:
